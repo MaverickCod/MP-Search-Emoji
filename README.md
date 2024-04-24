@@ -1,4 +1,4 @@
-# Emoji Collection Project
+# Emoji Project
 
 ## Description
 
